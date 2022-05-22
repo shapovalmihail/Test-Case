@@ -1,4 +1,4 @@
-# Test-Case
+# Test-Case Brone Barbershop
 
 |  ID |  Title  |    Pre Conditions |   Steps  |     Expected Result |
 |----|----|------|-----|-----|
